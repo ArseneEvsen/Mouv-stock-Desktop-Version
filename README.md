@@ -1,6 +1,7 @@
 # Stock Management - Desktop Version
 Auteur : Evsen Arsène
 Technologies : Java / Swing / JDBC
+
 ## Sommaire :
 - Présentation
 - Fonctionnalitées

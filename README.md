@@ -49,12 +49,15 @@ Le menu création permet d'enregister les articles pour la première fois en bas
 ![Alt Text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20cr%C3%A9ation_choix%20article.PNG?raw=true)
 
 Choix de la création d'un article de lot : 
+
 ![Alt Text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20cr%C3%A9ation_choix%20article_Lot.PNG?raw=true)
 
 Choix de la création d'un article unitaire : 
+
 ![Alt Text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20cr%C3%A9ation_choix%20article_unitaire.PNG?raw=true)
 
 Création de marques/groupe/sous-groupes :
+
 ![Alt Text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20cr%C3%A9ation_choix%20marquegroupeect.PNG?raw=true)
 
 ### Mode vente

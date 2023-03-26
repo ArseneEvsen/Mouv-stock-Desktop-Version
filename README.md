@@ -75,7 +75,9 @@ Cela permet à l'employé d'enchainer les scans de produits en caisse.
 Le menu recherche permet de retrouver et d'afficher les caractéristiques associés à un produit après la saisie du code-barre de ce dernier.
 
 ![alt text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20Recherche.PNG?raw=true)
+
 ![alt text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20Recherche_%20Article_Lot.PNG?raw=true)
+
 ![alt text](https://github.com/ArseneEvsen/Stock-Management-Desktop-Version/blob/master/Screen%20V1/Menu%20Recherche%20article%20unitaire.PNG?raw=true)
 
 

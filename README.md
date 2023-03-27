@@ -86,7 +86,7 @@ Le menu recherche permet de retrouver et d'afficher les caractéristiques associ
 ## Prérequis
 - Eclipse Version: 2022-06 (4.24.0)
 - java.runtime.version=17.0.4.1+1
-- Les drivers (exemple : mysqlconnector) sont disponnibles dans le repository.
+- Les drivers (exemple : mysqlconnector) sont disponibles dans le repository.
 - Base de donnée MySql Version 8
 - Logiciel de gestion et d'administration de bases de données MySQL favoris (exemple : MySQL Workbench)
 
@@ -96,6 +96,7 @@ Le menu recherche permet de retrouver et d'afficher les caractéristiques associ
 - Avec l'IDE Eclipse 2022-06, ouvrir l'application avec le dossier décompressé à l'aide du menu "import"
 - Ouvrir MySql Workbench, déployer la base de donnée
 - Avec l'adresse localhost, l'identifiant "admin" et "mot de passe", configurer le fichier ConnexionMySQL téléchargé dans le projet.
+- La classe de à exécuter en premier se trouve dans view->MainWindow
 
 ## Licence 
 MIT License

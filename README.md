@@ -1,4 +1,4 @@
-# Stock Management - Desktop Version
+# Mouv'Stock - Desktop Version
 Auteur : Evsen Arsène
 
 Technologies : Java / Swing / JDBC
